@@ -1,2 +1,1 @@
-# Tindog
-A dating website like Tinder for dogs
+TinDog Starting Files
